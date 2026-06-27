@@ -1,0 +1,9 @@
+/home/user/atbots_ws/build/arms/CMakeFiles/uninstall.dir
+/home/user/atbots_ws/build/arms/CMakeFiles/arms_uninstall.dir
+/home/user/atbots_ws/build/arms/CMakeFiles/test.dir
+/home/user/atbots_ws/build/arms/CMakeFiles/edit_cache.dir
+/home/user/atbots_ws/build/arms/CMakeFiles/rebuild_cache.dir
+/home/user/atbots_ws/build/arms/CMakeFiles/list_install_components.dir
+/home/user/atbots_ws/build/arms/CMakeFiles/install.dir
+/home/user/atbots_ws/build/arms/CMakeFiles/install/local.dir
+/home/user/atbots_ws/build/arms/CMakeFiles/install/strip.dir

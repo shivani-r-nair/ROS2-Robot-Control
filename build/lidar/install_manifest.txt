@@ -1,0 +1,17 @@
+/home/user/atbots_ws/install/lidar/share/lidar/scripts/lidar.py
+/home/user/atbots_ws/install/lidar/lib/lidar/lidar.py
+/home/user/atbots_ws/install/lidar/share/ament_index/resource_index/package_run_dependencies/lidar
+/home/user/atbots_ws/install/lidar/share/ament_index/resource_index/parent_prefix_path/lidar
+/home/user/atbots_ws/install/lidar/share/lidar/environment/ament_prefix_path.sh
+/home/user/atbots_ws/install/lidar/share/lidar/environment/ament_prefix_path.dsv
+/home/user/atbots_ws/install/lidar/share/lidar/environment/path.sh
+/home/user/atbots_ws/install/lidar/share/lidar/environment/path.dsv
+/home/user/atbots_ws/install/lidar/share/lidar/local_setup.bash
+/home/user/atbots_ws/install/lidar/share/lidar/local_setup.sh
+/home/user/atbots_ws/install/lidar/share/lidar/local_setup.zsh
+/home/user/atbots_ws/install/lidar/share/lidar/local_setup.dsv
+/home/user/atbots_ws/install/lidar/share/lidar/package.dsv
+/home/user/atbots_ws/install/lidar/share/ament_index/resource_index/packages/lidar
+/home/user/atbots_ws/install/lidar/share/lidar/cmake/lidarConfig.cmake
+/home/user/atbots_ws/install/lidar/share/lidar/cmake/lidarConfig-version.cmake
+/home/user/atbots_ws/install/lidar/share/lidar/package.xml

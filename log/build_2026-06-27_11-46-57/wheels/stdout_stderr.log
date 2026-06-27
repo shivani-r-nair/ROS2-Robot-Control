@@ -1,0 +1,8 @@
+-- Install configuration: ""
+-- Up-to-date: /home/user/atbots_ws/install/wheels/share/wheels/scripts
+[31mCMake Error at cmake_install.cmake:50 (file):
+  file INSTALL cannot find
+  "/home/user/atbots_ws/src/wheels/scripts/wheels.py": No such file or
+  directory.
+
+[0m

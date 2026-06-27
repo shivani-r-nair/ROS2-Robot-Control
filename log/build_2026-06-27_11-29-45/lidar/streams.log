@@ -1,0 +1,61 @@
+[0.010s] Invoking command in '/home/user/atbots_ws/build/lidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/atbots_ws/src/lidar -DCMAKE_INSTALL_PREFIX=/home/user/atbots_ws/install/lidar
+[0.258s] -- The C compiler identification is GNU 11.4.0
+[0.425s] -- The CXX compiler identification is GNU 11.4.0
+[0.441s] -- Detecting C compiler ABI info
+[0.527s] -- Detecting C compiler ABI info - done
+[0.538s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.538s] -- Detecting C compile features
+[0.539s] -- Detecting C compile features - done
+[0.545s] -- Detecting CXX compiler ABI info
+[0.643s] -- Detecting CXX compiler ABI info - done
+[0.653s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.654s] -- Detecting CXX compile features
+[0.654s] -- Detecting CXX compile features - done
+[0.658s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.823s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.944s] -- Found rclcpp: 16.0.19 (/opt/ros/humble/share/rclcpp/cmake)
+[1.009s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.016s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.030s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.051s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.074s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.128s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.132s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.241s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.271s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.309s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.326s] -- Looking for pthread.h
+[1.457s] -- Looking for pthread.h - found
+[1.458s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.570s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.571s] -- Found Threads: TRUE  
+[1.646s] -- Found sensor_msgs: 4.9.1 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.691s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.793s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.794s] -- Added test 'lint_cmake' to check CMake code style
+[1.794s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.796s] -- Added test 'xmllint' to check XML markup files
+[1.799s] -- Configuring done
+[1.804s] -- Generating done
+[1.806s] -- Build files have been written to: /home/user/atbots_ws/build/lidar
+[1.815s] Invoked command in '/home/user/atbots_ws/build/lidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/atbots_ws/src/lidar -DCMAKE_INSTALL_PREFIX=/home/user/atbots_ws/install/lidar
+[1.818s] Invoking command in '/home/user/atbots_ws/build/lidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/atbots_ws/build/lidar -- -j8 -l8
+[1.865s] Invoked command in '/home/user/atbots_ws/build/lidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/atbots_ws/build/lidar -- -j8 -l8
+[1.875s] Invoking command in '/home/user/atbots_ws/build/lidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/atbots_ws/build/lidar
+[1.885s] -- Install configuration: ""
+[1.885s] -- Installing: /home/user/atbots_ws/install/lidar/share/ament_index/resource_index/package_run_dependencies/lidar
+[1.885s] -- Installing: /home/user/atbots_ws/install/lidar/share/ament_index/resource_index/parent_prefix_path/lidar
+[1.886s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/environment/ament_prefix_path.sh
+[1.886s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/environment/ament_prefix_path.dsv
+[1.886s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/environment/path.sh
+[1.886s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/environment/path.dsv
+[1.886s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/local_setup.bash
+[1.887s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/local_setup.sh
+[1.887s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/local_setup.zsh
+[1.887s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/local_setup.dsv
+[1.887s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/package.dsv
+[1.887s] -- Installing: /home/user/atbots_ws/install/lidar/share/ament_index/resource_index/packages/lidar
+[1.888s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/cmake/lidarConfig.cmake
+[1.888s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/cmake/lidarConfig-version.cmake
+[1.888s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/package.xml
+[1.890s] Invoked command in '/home/user/atbots_ws/build/lidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/atbots_ws/build/lidar

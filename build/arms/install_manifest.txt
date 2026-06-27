@@ -1,0 +1,17 @@
+/home/user/atbots_ws/install/arms/share/arms/scripts/arms.py
+/home/user/atbots_ws/install/arms/lib/arms/arms.py
+/home/user/atbots_ws/install/arms/share/ament_index/resource_index/package_run_dependencies/arms
+/home/user/atbots_ws/install/arms/share/ament_index/resource_index/parent_prefix_path/arms
+/home/user/atbots_ws/install/arms/share/arms/environment/ament_prefix_path.sh
+/home/user/atbots_ws/install/arms/share/arms/environment/ament_prefix_path.dsv
+/home/user/atbots_ws/install/arms/share/arms/environment/path.sh
+/home/user/atbots_ws/install/arms/share/arms/environment/path.dsv
+/home/user/atbots_ws/install/arms/share/arms/local_setup.bash
+/home/user/atbots_ws/install/arms/share/arms/local_setup.sh
+/home/user/atbots_ws/install/arms/share/arms/local_setup.zsh
+/home/user/atbots_ws/install/arms/share/arms/local_setup.dsv
+/home/user/atbots_ws/install/arms/share/arms/package.dsv
+/home/user/atbots_ws/install/arms/share/ament_index/resource_index/packages/arms
+/home/user/atbots_ws/install/arms/share/arms/cmake/armsConfig.cmake
+/home/user/atbots_ws/install/arms/share/arms/cmake/armsConfig-version.cmake
+/home/user/atbots_ws/install/arms/share/arms/package.xml

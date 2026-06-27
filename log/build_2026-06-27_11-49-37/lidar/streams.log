@@ -1,0 +1,23 @@
+[0.016s] Invoking command in '/home/user/atbots_ws/build/lidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/atbots_ws/build/lidar -- -j8 -l8
+[0.065s] Invoked command in '/home/user/atbots_ws/build/lidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/atbots_ws/build/lidar -- -j8 -l8
+[0.078s] Invoking command in '/home/user/atbots_ws/build/lidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/atbots_ws/build/lidar
+[0.087s] -- Install configuration: ""
+[0.087s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/scripts
+[0.087s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/scripts/lidar.py
+[0.088s] -- Up-to-date: /home/user/atbots_ws/install/lidar/lib/lidar/lidar.py
+[0.088s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/ament_index/resource_index/package_run_dependencies/lidar
+[0.088s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/ament_index/resource_index/parent_prefix_path/lidar
+[0.088s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/environment/ament_prefix_path.sh
+[0.089s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/environment/ament_prefix_path.dsv
+[0.089s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/environment/path.sh
+[0.089s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/environment/path.dsv
+[0.089s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/local_setup.bash
+[0.089s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/local_setup.sh
+[0.090s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/local_setup.zsh
+[0.090s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/local_setup.dsv
+[0.090s] -- Installing: /home/user/atbots_ws/install/lidar/share/lidar/package.dsv
+[0.090s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/ament_index/resource_index/packages/lidar
+[0.090s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/cmake/lidarConfig.cmake
+[0.091s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/cmake/lidarConfig-version.cmake
+[0.091s] -- Up-to-date: /home/user/atbots_ws/install/lidar/share/lidar/package.xml
+[0.092s] Invoked command in '/home/user/atbots_ws/build/lidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/atbots_ws/build/lidar

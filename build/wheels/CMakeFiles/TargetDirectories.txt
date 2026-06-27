@@ -1,0 +1,9 @@
+/home/user/atbots_ws/build/wheels/CMakeFiles/uninstall.dir
+/home/user/atbots_ws/build/wheels/CMakeFiles/wheels_uninstall.dir
+/home/user/atbots_ws/build/wheels/CMakeFiles/test.dir
+/home/user/atbots_ws/build/wheels/CMakeFiles/edit_cache.dir
+/home/user/atbots_ws/build/wheels/CMakeFiles/rebuild_cache.dir
+/home/user/atbots_ws/build/wheels/CMakeFiles/list_install_components.dir
+/home/user/atbots_ws/build/wheels/CMakeFiles/install.dir
+/home/user/atbots_ws/build/wheels/CMakeFiles/install/local.dir
+/home/user/atbots_ws/build/wheels/CMakeFiles/install/strip.dir
