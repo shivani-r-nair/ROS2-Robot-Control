@@ -15,6 +15,7 @@ find_package(geometry_msgs REQUIRED)
 install(
   DIRECTORY
     scripts
+    launch
   DESTINATION share/${PROJECT_NAME}
 )
 
